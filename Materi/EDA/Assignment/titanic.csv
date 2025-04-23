@@ -1,0 +1,501 @@
+survived,name,sex,age
+1,"Allen, Miss. Elisabeth Walton",female,29.0
+1,"Allison, Master. Hudson Trevor",male,0.9167
+0,"Allison, Miss. Helen Loraine",female,2.0
+0,"Allison, Mr. Hudson Joshua Creighton",male,30.0
+0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0
+1,"Anderson, Mr. Harry",male,48.0
+1,"Andrews, Miss. Kornelia Theodosia",female,63.0
+0,"Andrews, Mr. Thomas Jr",male,39.0
+1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0
+0,"Artagaveytia, Mr. Ramon",male,71.0
+0,"Astor, Col. John Jacob",male,47.0
+1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0
+1,"Aubart, Mme. Leontine Pauline",female,24.0
+1,"Barber, Miss. Ellen ""Nellie""",female,26.0
+1,"Barkworth, Mr. Algernon Henry Wilson",male,80.0
+0,"Baumann, Mr. John D",male,
+0,"Baxter, Mr. Quigg Edmond",male,24.0
+1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0
+1,"Bazzani, Miss. Albina",female,32.0
+0,"Beattie, Mr. Thomson",male,36.0
+1,"Beckwith, Mr. Richard Leonard",male,37.0
+1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0
+1,"Behr, Mr. Karl Howell",male,26.0
+1,"Bidois, Miss. Rosalie",female,42.0
+1,"Bird, Miss. Ellen",female,29.0
+0,"Birnbaum, Mr. Jakob",male,25.0
+1,"Bishop, Mr. Dickinson H",male,25.0
+1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0
+1,"Bissette, Miss. Amelia",female,35.0
+1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0
+0,"Blackwell, Mr. Stephen Weart",male,45.0
+1,"Blank, Mr. Henry",male,40.0
+1,"Bonnell, Miss. Caroline",female,30.0
+1,"Bonnell, Miss. Elizabeth",female,58.0
+0,"Borebank, Mr. John James",male,42.0
+1,"Bowen, Miss. Grace Scott",female,45.0
+1,"Bowerman, Miss. Elsie Edith",female,22.0
+1,"Bradley, Mr. George (""George Arthur Brayton"")",male,
+0,"Brady, Mr. John Bertram",male,41.0
+0,"Brandeis, Mr. Emil",male,48.0
+0,"Brewe, Dr. Arthur Jackson",male,
+1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0
+1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0
+1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0
+1,"Burns, Miss. Elizabeth Margaret",female,41.0
+0,"Butt, Major. Archibald Willingham",male,45.0
+0,"Cairns, Mr. Alexander",male,
+1,"Calderhead, Mr. Edward Pennington",male,42.0
+1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0
+1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0
+1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0
+0,"Carlsson, Mr. Frans Olof",male,33.0
+0,"Carrau, Mr. Francisco M",male,28.0
+0,"Carrau, Mr. Jose Pedro",male,17.0
+1,"Carter, Master. William Thornton II",male,11.0
+1,"Carter, Miss. Lucile Polk",female,14.0
+1,"Carter, Mr. William Ernest",male,36.0
+1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0
+0,"Case, Mr. Howard Brown",male,49.0
+1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,
+0,"Cavendish, Mr. Tyrell William",male,36.0
+1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0
+0,"Chaffee, Mr. Herbert Fuller",male,46.0
+1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0
+1,"Chambers, Mr. Norman Campbell",male,27.0
+1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0
+1,"Chaudanson, Miss. Victorine",female,36.0
+1,"Cherry, Miss. Gladys",female,30.0
+1,"Chevre, Mr. Paul Romaine",male,45.0
+1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,
+0,"Chisholm, Mr. Roderick Robert Crispin",male,
+0,"Clark, Mr. Walter Miller",male,27.0
+1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0
+1,"Cleaver, Miss. Alice",female,22.0
+0,"Clifford, Mr. George Quincy",male,
+0,"Colley, Mr. Edward Pomeroy",male,47.0
+1,"Compton, Miss. Sara Rebecca",female,39.0
+0,"Compton, Mr. Alexander Taylor Jr",male,37.0
+1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0
+1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0
+0,"Crafton, Mr. John Bertram",male,
+0,"Crosby, Capt. Edward Gifford",male,70.0
+1,"Crosby, Miss. Harriet R",female,36.0
+1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0
+0,"Cumings, Mr. John Bradley",male,39.0
+1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0
+1,"Daly, Mr. Peter Denis ",male,51.0
+1,"Daniel, Mr. Robert Williams",male,27.0
+1,"Daniels, Miss. Sarah",female,33.0
+0,"Davidson, Mr. Thornton",male,31.0
+1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0
+1,"Dick, Mr. Albert Adrian",male,31.0
+1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0
+1,"Dodge, Dr. Washington",male,53.0
+1,"Dodge, Master. Washington",male,4.0
+1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0
+0,"Douglas, Mr. Walter Donald",male,50.0
+1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0
+1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0
+1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0
+1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0
+0,"Dulles, Mr. William Crothers",male,39.0
+1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0
+1,"Endres, Miss. Caroline Louise",female,38.0
+1,"Eustis, Miss. Elizabeth Mussey",female,54.0
+0,"Evans, Miss. Edith Corse",female,36.0
+0,"Farthing, Mr. John",male,
+1,"Flegenheim, Mrs. Alfred (Antoinette)",female,
+1,"Fleming, Miss. Margaret",female,
+1,"Flynn, Mr. John Irwin (""Irving"")",male,36.0
+0,"Foreman, Mr. Benjamin Laventall",male,30.0
+1,"Fortune, Miss. Alice Elizabeth",female,24.0
+1,"Fortune, Miss. Ethel Flora",female,28.0
+1,"Fortune, Miss. Mabel Helen",female,23.0
+0,"Fortune, Mr. Charles Alexander",male,19.0
+0,"Fortune, Mr. Mark",male,64.0
+1,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0
+1,"Francatelli, Miss. Laura Mabel",female,30.0
+0,"Franklin, Mr. Thomas Parham",male,
+1,"Frauenthal, Dr. Henry William",male,50.0
+1,"Frauenthal, Mr. Isaac Gerald",male,43.0
+1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,
+1,"Frolicher, Miss. Hedwig Margaritha",female,22.0
+1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0
+1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0
+0,"Fry, Mr. Richard",male,
+0,"Futrelle, Mr. Jacques Heath",male,37.0
+1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0
+0,"Gee, Mr. Arthur H",male,47.0
+1,"Geiger, Miss. Amalie",female,35.0
+1,"Gibson, Miss. Dorothy Winifred",female,22.0
+1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0
+0,"Giglio, Mr. Victor",male,24.0
+1,"Goldenberg, Mr. Samuel L",male,49.0
+1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,
+0,"Goldschmidt, Mr. George B",male,71.0
+1,"Gracie, Col. Archibald IV",male,53.0
+1,"Graham, Miss. Margaret Edith",female,19.0
+0,"Graham, Mr. George Edward",male,38.0
+1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0
+1,"Greenfield, Mr. William Bertram",male,23.0
+1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0
+0,"Guggenheim, Mr. Benjamin",male,46.0
+1,"Harder, Mr. George Achilles",male,25.0
+1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0
+1,"Harper, Mr. Henry Sleeper",male,48.0
+1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0
+0,"Harrington, Mr. Charles H",male,
+0,"Harris, Mr. Henry Birkhardt",male,45.0
+1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0
+0,"Harrison, Mr. William",male,40.0
+1,"Hassab, Mr. Hammad",male,27.0
+1,"Hawksford, Mr. Walter James",male,
+1,"Hays, Miss. Margaret Bechstein",female,24.0
+0,"Hays, Mr. Charles Melville",male,55.0
+1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0
+0,"Head, Mr. Christopher",male,42.0
+0,"Hilliard, Mr. Herbert Henry",male,
+0,"Hipkins, Mr. William Edward",male,55.0
+1,"Hippach, Miss. Jean Gertrude",female,16.0
+1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0
+1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0
+0,"Holverson, Mr. Alexander Oskar",male,42.0
+1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0
+1,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0
+1,"Hoyt, Mr. Frederick Maxfield",male,38.0
+0,"Hoyt, Mr. William Fisher",male,
+1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0
+1,"Icard, Miss. Amelie",female,38.0
+0,"Isham, Miss. Ann Elizabeth",female,50.0
+1,"Ismay, Mr. Joseph Bruce",male,49.0
+0,"Jones, Mr. Charles Cresson",male,46.0
+0,"Julian, Mr. Henry Forbes",male,50.0
+0,"Keeping, Mr. Edwin",male,32.5
+0,"Kent, Mr. Edward Austin",male,58.0
+0,"Kenyon, Mr. Frederick R",male,41.0
+1,"Kenyon, Mrs. Frederick R (Marion)",female,
+1,"Kimball, Mr. Edwin Nelson Jr",male,42.0
+1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0
+0,"Klaber, Mr. Herman",male,
+1,"Kreuchen, Miss. Emilie",female,39.0
+1,"Leader, Dr. Alice (Farnham)",female,49.0
+1,"LeRoy, Miss. Bertha",female,30.0
+1,"Lesurer, Mr. Gustave J",male,35.0
+0,"Lewy, Mr. Ervin G",male,
+0,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42.0
+1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0
+1,"Lines, Miss. Mary Conover",female,16.0
+1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0
+0,"Long, Mr. Milton Clyde",male,29.0
+1,"Longley, Miss. Gretchen Fiske",female,21.0
+0,"Loring, Mr. Joseph Holland",male,30.0
+1,"Lurette, Miss. Elise",female,58.0
+1,"Madill, Miss. Georgette Alexandra",female,15.0
+0,"Maguire, Mr. John Edward",male,30.0
+1,"Maioni, Miss. Roberta",female,16.0
+1,"Marechal, Mr. Pierre",male,
+0,"Marvin, Mr. Daniel Warner",male,19.0
+1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0
+1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0
+0,"McCaffry, Mr. Thomas Francis",male,46.0
+0,"McCarthy, Mr. Timothy J",male,54.0
+1,"McGough, Mr. James Robert",male,36.0
+0,"Meyer, Mr. Edgar Joseph",male,28.0
+1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,
+0,"Millet, Mr. Francis Davis",male,65.0
+0,"Minahan, Dr. William Edward",male,44.0
+1,"Minahan, Miss. Daisy E",female,33.0
+1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0
+1,"Mock, Mr. Philipp Edmund",male,30.0
+0,"Molson, Mr. Harry Markland",male,55.0
+0,"Moore, Mr. Clarence Bloomfield",male,47.0
+0,"Natsch, Mr. Charles H",male,37.0
+1,"Newell, Miss. Madeleine",female,31.0
+1,"Newell, Miss. Marjorie",female,23.0
+0,"Newell, Mr. Arthur Webster",male,58.0
+1,"Newsom, Miss. Helen Monypeny",female,19.0
+0,"Nicholson, Mr. Arthur Ernest",male,64.0
+1,"Oliva y Ocana, Dona. Fermina",female,39.0
+1,"Omont, Mr. Alfred Fernand",male,
+1,"Ostby, Miss. Helene Ragnhild",female,22.0
+0,"Ostby, Mr. Engelhart Cornelius",male,65.0
+0,"Ovies y Rodriguez, Mr. Servando",male,28.5
+0,"Parr, Mr. William Henry Marsh",male,
+0,"Partner, Mr. Austen",male,45.5
+0,"Payne, Mr. Vivian Ponsonby",male,23.0
+0,"Pears, Mr. Thomas Clinton",male,29.0
+1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0
+0,"Penasco y Castellana, Mr. Victor de Satode",male,18.0
+1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0
+1,"Perreault, Miss. Anne",female,30.0
+1,"Peuchen, Major. Arthur Godfrey",male,52.0
+0,"Porter, Mr. Walter Chamberlain",male,47.0
+1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0
+0,"Reuchlin, Jonkheer. John George",male,38.0
+1,"Rheims, Mr. George Alexander Lucien",male,
+0,"Ringhini, Mr. Sante",male,22.0
+0,"Robbins, Mr. Victor",male,
+1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0
+0,"Roebling, Mr. Washington Augustus II",male,31.0
+1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0
+0,"Rood, Mr. Hugh Roscoe",male,
+1,"Rosenbaum, Miss. Edith Louise",female,33.0
+0,"Rosenshine, Mr. George (""Mr George Thorne"")",male,46.0
+0,"Ross, Mr. John Hugo",male,36.0
+1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0
+0,"Rothschild, Mr. Martin",male,55.0
+1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0
+0,"Rowe, Mr. Alfred G",male,33.0
+1,"Ryerson, Master. John Borie",male,13.0
+1,"Ryerson, Miss. Emily Borie",female,18.0
+1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0
+0,"Ryerson, Mr. Arthur Larned",male,61.0
+1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0
+1,"Saalfeld, Mr. Adolphe",male,
+1,"Sagesser, Mlle. Emma",female,24.0
+1,"Salomon, Mr. Abraham L",male,
+1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0
+1,"Serepeca, Miss. Augusta",female,30.0
+1,"Seward, Mr. Frederic Kimber",male,34.0
+1,"Shutes, Miss. Elizabeth W",female,40.0
+1,"Silverthorne, Mr. Spencer Victor",male,35.0
+0,"Silvey, Mr. William Baird",male,50.0
+1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0
+1,"Simonius-Blumer, Col. Oberst Alfons",male,56.0
+1,"Sloper, Mr. William Thompson",male,28.0
+0,"Smart, Mr. John Montgomery",male,56.0
+0,"Smith, Mr. James Clinch",male,56.0
+0,"Smith, Mr. Lucien Philip",male,24.0
+0,"Smith, Mr. Richard William",male,
+1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0
+1,"Snyder, Mr. John Pillsbury",male,24.0
+1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0
+1,"Spedden, Master. Robert Douglas",male,6.0
+1,"Spedden, Mr. Frederic Oakley",male,45.0
+1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0
+0,"Spencer, Mr. William Augustus",male,57.0
+1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,
+1,"Stahelin-Maeglin, Dr. Max",male,32.0
+0,"Stead, Mr. William Thomas",male,62.0
+1,"Stengel, Mr. Charles Emil Henry",male,54.0
+1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0
+1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0
+0,"Stewart, Mr. Albert A",male,
+1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0
+0,"Straus, Mr. Isidor",male,67.0
+0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0
+0,"Sutton, Mr. Frederick",male,61.0
+1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0
+1,"Taussig, Miss. Ruth",female,18.0
+0,"Taussig, Mr. Emil",male,52.0
+1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0
+1,"Taylor, Mr. Elmer Zebley",male,48.0
+1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,
+0,"Thayer, Mr. John Borland",male,49.0
+1,"Thayer, Mr. John Borland Jr",male,17.0
+1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0
+1,"Thorne, Mrs. Gertrude Maybelle",female,
+1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0
+0,"Uruchurtu, Don. Manuel E",male,40.0
+0,"Van der hoef, Mr. Wyckoff",male,61.0
+0,"Walker, Mr. William Anderson",male,47.0
+1,"Ward, Miss. Anna",female,35.0
+0,"Warren, Mr. Frank Manley",male,64.0
+1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0
+0,"Weir, Col. John",male,60.0
+0,"White, Mr. Percival Wayland",male,54.0
+0,"White, Mr. Richard Frasar",male,21.0
+1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0
+1,"Wick, Miss. Mary Natalie",female,31.0
+0,"Wick, Mr. George Dennick",male,57.0
+1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0
+0,"Widener, Mr. George Dunton",male,50.0
+0,"Widener, Mr. Harry Elkins",male,27.0
+1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0
+1,"Willard, Miss. Constance",female,21.0
+0,"Williams, Mr. Charles Duane",male,51.0
+1,"Williams, Mr. Richard Norris II",male,21.0
+0,"Williams-Lambert, Mr. Fletcher Fellows",male,
+1,"Wilson, Miss. Helen Alice",female,31.0
+1,"Woolner, Mr. Hugh",male,
+0,"Wright, Mr. George",male,62.0
+1,"Young, Miss. Marie Grice",female,36.0
+0,"Abelson, Mr. Samuel",male,30.0
+1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0
+0,"Aldworth, Mr. Charles Augustus",male,30.0
+0,"Andrew, Mr. Edgardo Samuel",male,18.0
+0,"Andrew, Mr. Frank Thomas",male,25.0
+0,"Angle, Mr. William A",male,34.0
+1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0
+0,"Ashby, Mr. John",male,57.0
+0,"Bailey, Mr. Percy Andrew",male,18.0
+0,"Baimbrigge, Mr. Charles Robert",male,23.0
+1,"Ball, Mrs. (Ada E Hall)",female,36.0
+0,"Banfield, Mr. Frederick James",male,28.0
+0,"Bateman, Rev. Robert James",male,51.0
+1,"Beane, Mr. Edward",male,32.0
+1,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0
+0,"Beauchamp, Mr. Henry James",male,28.0
+1,"Becker, Master. Richard F",male,1.0
+1,"Becker, Miss. Marion Louise",female,4.0
+1,"Becker, Miss. Ruth Elizabeth",female,12.0
+1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0
+1,"Beesley, Mr. Lawrence",male,34.0
+1,"Bentham, Miss. Lilian W",female,19.0
+0,"Berriman, Mr. William John",male,23.0
+0,"Botsford, Mr. William Hull",male,26.0
+0,"Bowenur, Mr. Solomon",male,42.0
+0,"Bracken, Mr. James H",male,27.0
+1,"Eustis, Miss. Elizabeth Mussey",female,54.0
+1,"Brown, Miss. Amelia ""Mildred""",female,24.0
+1,"Brown, Miss. Edith Eileen",female,15.0
+0,"Brown, Mr. Thomas William Solomon",male,60.0
+1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0
+1,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0
+0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0
+1,"Buss, Miss. Kate",female,36.0
+0,"Butler, Mr. Reginald Fenton",male,25.0
+0,"Byles, Rev. Thomas Roussel Davids",male,42.0
+1,"Bystrom, Mrs. (Karolina)",female,42.0
+1,"Caldwell, Master. Alden Gates",male,0.8333
+1,"Caldwell, Mr. Albert Francis",male,26.0
+1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0
+1,"Cameron, Miss. Clear Annie",female,35.0
+0,"Campbell, Mr. William",male,
+0,"Carbines, Mr. William",male,19.0
+0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0
+0,"Carter, Rev. Ernest Courtenay",male,54.0
+0,"Chapman, Mr. Charles Henry",male,52.0
+0,"Chapman, Mr. John Henry",male,37.0
+0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0
+1,"Christy, Miss. Julie Rachel",female,25.0
+1,"Christy, Mrs. (Alice Frances)",female,45.0
+0,"Clarke, Mr. Charles Valentine",male,29.0
+1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0
+0,"Coleridge, Mr. Reginald Charles",male,29.0
+0,"Collander, Mr. Erik Gustaf",male,28.0
+1,"Collett, Mr. Sidney C Stuart",male,24.0
+1,"Collyer, Miss. Marjorie ""Lottie""",female,8.0
+0,"Collyer, Mr. Harvey",male,31.0
+1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0
+1,"Cook, Mrs. (Selena Rogers)",female,22.0
+0,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0
+0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,
+0,"Cotterill, Mr. Henry ""Harry""",male,21.0
+0,"Cunningham, Mr. Alfred Fleming",male,
+1,"Davies, Master. John Morgan Jr",male,8.0
+0,"Davies, Mr. Charles Henry",male,18.0
+1,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0
+1,"Davis, Miss. Mary",female,28.0
+0,"de Brito, Mr. Jose Joaquim",male,32.0
+0,"Deacon, Mr. Percy William",male,17.0
+0,"del Carlo, Mr. Sebastiano",male,29.0
+1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0
+0,"Denbury, Mr. Herbert",male,25.0
+0,"Dibden, Mr. William",male,18.0
+1,"Doling, Miss. Elsie",female,18.0
+1,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0
+0,"Downton, Mr. William James",male,54.0
+1,"Drew, Master. Marshall Brines",male,8.0
+0,"Drew, Mr. James Vivian",male,42.0
+1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0
+1,"Duran y More, Miss. Asuncion",female,27.0
+1,"Duran y More, Miss. Florentina",female,30.0
+0,"Eitemiller, Mr. George Floyd",male,23.0
+0,"Enander, Mr. Ingvar",male,21.0
+0,"Fahlstrom, Mr. Arne Jonas",male,18.0
+0,"Faunthorpe, Mr. Harry",male,40.0
+1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0
+0,"Fillbrook, Mr. Joseph Charles",male,18.0
+0,"Fox, Mr. Stanley Hubert",male,36.0
+0,"Frost, Mr. Anthony Wood ""Archie""",male,
+0,"Funk, Miss. Annie Clemmer",female,38.0
+0,"Fynney, Mr. Joseph J",male,35.0
+0,"Gale, Mr. Harry",male,38.0
+0,"Gale, Mr. Shadrach",male,34.0
+1,"Garside, Miss. Ethel",female,34.0
+0,"Gaskell, Mr. Alfred",male,16.0
+0,"Gavey, Mr. Lawrence",male,26.0
+0,"Gilbert, Mr. William",male,47.0
+0,"Giles, Mr. Edgar",male,21.0
+0,"Giles, Mr. Frederick Edward",male,21.0
+0,"Giles, Mr. Ralph",male,24.0
+0,"Gill, Mr. John William",male,24.0
+0,"Gillespie, Mr. William Henry",male,34.0
+0,"Givard, Mr. Hans Kristensen",male,30.0
+0,"Greenberg, Mr. Samuel",male,52.0
+0,"Hale, Mr. Reginald",male,30.0
+1,"Hamalainen, Master. Viljo",male,0.6667
+1,"Hamalainen, Mrs. William (Anna)",female,24.0
+0,"Harbeck, Mr. William H",male,44.0
+1,"Harper, Miss. Annie Jessie ""Nina""",female,6.0
+0,"Harper, Rev. John",male,28.0
+1,"Harris, Mr. George",male,62.0
+0,"Harris, Mr. Walter",male,30.0
+1,"Hart, Miss. Eva Miriam",female,7.0
+0,"Hart, Mr. Benjamin",male,43.0
+1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0
+1,"Herman, Miss. Alice",female,24.0
+1,"Herman, Miss. Kate",female,24.0
+0,"Herman, Mr. Samuel",male,49.0
+1,"Herman, Mrs. Samuel (Jane Laver)",female,48.0
+1,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0
+0,"Hickman, Mr. Leonard Mark",male,24.0
+0,"Hickman, Mr. Lewis",male,32.0
+0,"Hickman, Mr. Stanley George",male,21.0
+0,"Hiltunen, Miss. Marta",female,18.0
+1,"Hocking, Miss. Ellen ""Nellie""",female,20.0
+0,"Hocking, Mr. Richard George",male,23.0
+0,"Hocking, Mr. Samuel James Metcalfe",male,36.0
+1,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0
+0,"Hodges, Mr. Henry Price",male,50.0
+0,"Hold, Mr. Stephen",male,44.0
+1,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0
+0,"Hood, Mr. Ambrose Jr",male,21.0
+1,"Hosono, Mr. Masabumi",male,42.0
+0,"Howard, Mr. Benjamin",male,63.0
+0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0
+0,"Hunt, Mr. George Henry",male,33.0
+1,"Ilett, Miss. Bertha",female,17.0
+0,"Jacobsohn, Mr. Sidney Samuel",male,42.0
+1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0
+0,"Jarvis, Mr. John Denzil",male,47.0
+0,"Jefferys, Mr. Clifford Thomas",male,24.0
+0,"Jefferys, Mr. Ernest Wilfred",male,22.0
+0,"Jenkin, Mr. Stephen Curnow",male,32.0
+1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0
+0,"Kantor, Mr. Sinai",male,34.0
+1,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0
+0,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0
+1,"Keane, Miss. Nora A",female,
+0,"Keane, Mr. Daniel",male,35.0
+1,"Kelly, Mrs. Florence ""Fannie""",female,45.0
+0,"Kirkland, Rev. Charles Leonard",male,57.0
+0,"Knight, Mr. Robert J",male,
+0,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0
+0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0
+0,"Lahtinen, Rev. William",male,30.0
+0,"Lamb, Mr. John Joseph",male,
+1,"Laroche, Miss. Louise",female,1.0
+1,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0
+0,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0
+1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0
+1,"Lehmann, Miss. Bertha",female,17.0
+1,"Leitch, Miss. Jessie Wills",female,
+1,"Lemore, Mrs. (Amelia Milley)",female,34.0
+0,"Levy, Mr. Rene Jacques",male,36.0
+0,"Leyson, Mr. Robert William Norman",male,24.0
+0,"Lingane, Mr. John",male,61.0
+0,"Louch, Mr. Charles Alexander",male,50.0
+1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0
+0,"Mack, Mrs. (Mary)",female,57.0
+0,"Malachard, Mr. Noel",male,
+1,"Mallet, Master. Andre",male,1.0
+0,"Mallet, Mr. Albert",male,31.0
+1,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0
+0,"Mangiavacchi, Mr. Serafino Emilio",male,
+0,"Matthews, Mr. William John",male,30.0
+0,"Maybery, Mr. Frank Hubert",male,40.0
+0,"McCrae, Mr. Arthur Gordon",male,32.0
